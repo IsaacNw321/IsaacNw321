@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and Back-End**
 
-- 👨‍💻 All of my projects are available at [https://daapp-sandy.vercel.app/](https://daapp-sandy.vercel.app/)
+- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://daapp-sandy.vercel.app/](https://daapp-sandy.vercel.app/)
 
 - 📫 How to reach me **isaac.pereira.50159@gmail.com**
 
