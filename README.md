@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Pereira</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate full Stack developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Typescript and Back-End**
 
