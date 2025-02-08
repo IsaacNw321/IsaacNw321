@@ -5,7 +5,7 @@
 
 - 👨‍💻 One of my responsive and fullStack projects in Next.js [https://daapp-sandy.vercel.app/](https://daapp-sandy.vercel.app/)
 
--About me [https://homepage2-coral.vercel.app/](https://homepage2-coral.vercel.app/)
+- About me [https://homepage2-coral.vercel.app/](https://homepage2-coral.vercel.app/)
 
 - 📫 How to reach me **isaac.pereira.50159@gmail.com**
 
