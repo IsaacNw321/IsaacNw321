@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Typescript and Back-End**
 
-- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://daapp-sandy.vercel.app/](https://daapp-sandy.vercel.app/)
+- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://daapp-gilt.vercel.app/](https://daapp-gilt.vercel.app/)
 
 - About me [https://homepage2-coral.vercel.app/](https://homepage2-coral.vercel.app/)
 
--A full stack Anonymous chat between students and psychologists [https://front-end-chat-nine.vercel.app/](https://front-end-chat-nine.vercel.app/)
+- A full stack Anonymous chat between students and psychologists [https://front-end-chat-nine.vercel.app/](https://front-end-chat-nine.vercel.app/)
 
 - 📫 How to reach me **isaac.pereira.50159@gmail.com**
 
