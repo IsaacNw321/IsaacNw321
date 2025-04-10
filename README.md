@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and Back-End**
 
-- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://daapp-gilt.vercel.app/](https://daapp-gilt.vercel.app/)
+- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://angels-app.vercel.app](https://angels-app.vercel.app)
 
 - About me [https://homepage2-coral.vercel.app/](https://homepage2-coral.vercel.app/)
 
