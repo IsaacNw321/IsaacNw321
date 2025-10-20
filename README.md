@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Typescript and Back-End**
 
-- 👨‍💻 One of my responsive and fullStack projects in Next.js [https://angels-app.vercel.app](https://angels-app.vercel.app)
+- 👨‍💻 Static and responsive project in Next.js [https://angels-app.vercel.app](https://angels-app.vercel.app)
 
-- About me [https://homepage2-coral.vercel.app/](https://homepage2-coral.vercel.app/)
+- [My portfolio](https://homepage-astro-nu.vercel.app)
 
 - A full stack Anonymous chat between students and psychologists [https://front-end-chat-nine.vercel.app/](https://front-end-chat-nine.vercel.app/)
 
