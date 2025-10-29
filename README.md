@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Pereira</h1>
 <h3 align="center">A passionate full Stack developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Typescript and Back-End**
+- 🌱 I’m currently learning **Docker and Linux**
 
 - 👨‍💻 Static and responsive project in Next.js [https://angels-app.vercel.app](https://angels-app.vercel.app)
 
