@@ -7,7 +7,7 @@
 
 - [My portfolio](https://homepage-astro-nu.vercel.app)
 
-- A full stack Anonymous chat between students and psychologists [https://front-end-chat-nine.vercel.app/](https://front-end-chat-nine.vercel.app/)
+- A full stack Anonymous chat between students and psychologists [https://frontend-chat-ts.vercel.app/](https://frontend-chat-ts.vercel.app/)
 
 - 📫 How to reach me **isaac.pereira.50159@gmail.com**
 
